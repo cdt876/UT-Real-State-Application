@@ -8,6 +8,6 @@ Apex - NIMBLEPM - Property Management Project
 
 3) Workspace: my_website
    
-   username: cdtrejo@utexas.edu
+      username: cdtrejo@utexas.edu
    
-   password: apex13
+      password: apex13
